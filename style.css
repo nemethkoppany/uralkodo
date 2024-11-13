@@ -1,0 +1,10 @@
+table, tr, td, th{
+    border: 1px solid #000 ;
+    border-collapse: collapse;
+    
+}
+
+.error{
+    color: red;
+    text-shadow: 10px;
+}
